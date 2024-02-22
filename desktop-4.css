@@ -1,0 +1,305 @@
+.span3 {
+  white-space: pre-wrap;
+}
+.animal-care3 {
+  font-size: var(--font-size-21xl);
+}
+.animal-care3,
+.home3 {
+  white-space: pre-wrap;
+}
+.animal-care-ho3 {
+  font-weight: 300;
+  font-size: var(--font-size-9xl);
+}
+.animal-care-home-container3 {
+  align-self: stretch;
+  height: 81px;
+  position: relative;
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+}
+.user-name-input-child {
+  align-self: stretch;
+  width: 954px;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  display: none;
+  max-width: 100%;
+}
+.contact-us {
+  margin: 0;
+  height: 127px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  font-style: italic;
+  font-weight: 200;
+  font-family: inherit;
+  max-width: 100%;
+  z-index: 1;
+}
+.contact-us-frame-child,
+.user-name-input {
+  background-color: var(--color-whitesmoke);
+  max-width: 100%;
+}
+.user-name-input {
+  width: 954px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 61px 0 var(--padding-4xl);
+  box-sizing: border-box;
+}
+.contact-us-frame-child {
+  width: 1044px;
+  height: 340px;
+  position: relative;
+  display: none;
+}
+.username-text-field {
+  width: 259px;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 84px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+  box-sizing: border-box;
+  font-family: var(--font-inter);
+  font-style: italic;
+  font-weight: 200;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+}
+.email-field {
+  height: 69px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-white);
+  min-width: 467px;
+  max-width: 100%;
+  z-index: 1;
+}
+.send-button {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+  max-width: 100%;
+}
+.email {
+  width: 240px;
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-weight: 200;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-21xl);
+  background-color: transparent;
+  height: 70px;
+  position: relative;
+  font-style: italic;
+  color: var(--color-black);
+  text-align: center;
+  z-index: 1;
+}
+.background-rectangle {
+  height: 68px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-white);
+  min-width: 465px;
+  max-width: 100%;
+  z-index: 1;
+}
+.email-label {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0 26px;
+}
+.email-label,
+.our-contacts-frame,
+.our-contacts-text {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.our-contacts-frame {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 24px 0;
+}
+.our-contacts-text {
+  width: 527px;
+  border: 0;
+  outline: 0;
+  background-color: #908787;
+  height: 78px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-5xs) var(--padding-xs) 0;
+  box-sizing: border-box;
+  font-family: var(--font-inter);
+  font-weight: 700;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+}
+.contact-us-frame2,
+.login-register-link {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.contact-us-frame2 {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke);
+  align-items: center;
+  padding: 29px var(--padding-8xl) var(--padding-3xl) var(--padding-11xl);
+  box-sizing: border-box;
+  gap: 33px 0;
+}
+.login-register-link {
+  width: 1044px;
+  align-items: flex-end;
+  gap: 81px 0;
+}
+.our-contacts1 {
+  margin: 0;
+}
+.email-id1 {
+  margin-bottom: 0;
+}
+.email-id-animalcare015gmail1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-29xl);
+}
+.our-contacts-container1 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  font-weight: 300;
+  max-width: 100%;
+}
+.contact-frame,
+.contact-us-text {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.contact-frame {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+}
+.contact-us-text {
+  width: 1060px;
+  flex-direction: column;
+  gap: 134px 0;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.animal-care-home-link,
+.desktop-4 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.animal-care-home-link {
+  width: 1210px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl);
+  max-width: 100%;
+}
+.desktop-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 97px;
+  gap: 35px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1050px) {
+  .login-register-link {
+    gap: 81px 0;
+  }
+  .contact-us-text {
+    gap: 134px 0;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .contact-us {
+    font-size: var(--font-size-32xl);
+  }
+  .user-name-input {
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .email {
+    font-size: var(--font-size-13xl);
+  }
+  .our-contacts-container1 {
+    font-size: var(--font-size-10xl);
+  }
+}
+@media screen and (max-width: 725px) {
+  .background-rectangle,
+  .email-field {
+    min-width: 100%;
+  }
+  .contact-us-frame2 {
+    gap: 33px 0;
+  }
+  .login-register-link {
+    gap: 81px 0;
+  }
+  .contact-us-text {
+    gap: 134px 0;
+  }
+  .desktop-4 {
+    gap: 35px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .contact-us {
+    font-size: var(--font-size-19xl);
+  }
+  .email {
+    font-size: var(--font-size-5xl);
+  }
+  .our-contacts-container1 {
+    font-size: var(--font-size-3xl);
+  }
+  .contact-us-text {
+    gap: 134px 0;
+  }
+}
